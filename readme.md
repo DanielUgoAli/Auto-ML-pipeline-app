@@ -20,6 +20,3 @@ To run the application, use the following command:
 streamlit run app.py
 ```
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
